@@ -1,5 +1,5 @@
 # LargeImageView
-支持move、scale、fling、onDoubleTap
+支持scroll、scale、fling、doubleTap
 ### Compile
 ```
 allprojects {  
